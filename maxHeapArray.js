@@ -122,8 +122,7 @@ heap.add(100);
 // console.log(heap.peek());
 // console.log(heap.remove());
 
-// Printing the Heap
-// After Deletion.
+// Printing the Heap After Deletion.
 heap.printHeap();
 
 /* 
